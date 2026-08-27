@@ -163,6 +163,4 @@
 <div align="center">
 <br/>
 <sub>💡 검증된 디자인을 서비스로, 반복되는 일을 AI로.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
 </div>
