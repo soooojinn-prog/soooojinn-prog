@@ -1,7 +1,7 @@
 <!-- ===== 헤더 배너 ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=soooojinn&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Full-Stack%20%26%20AI%20Developer&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=soooojinn&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Full-Stack%20%C2%B7%20AI%20Developer&descSize=18&descAlignY=60" />
 
 <!-- ===== 타이핑 애니메이션 ===== -->
 <a href="https://github.com/soooojinn-prog">
