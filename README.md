@@ -99,33 +99,8 @@
 
 <br/>
 
-## 📌 Featured Repositories
-
 <div align="center">
-
-<a href="https://github.com/soooojinn-prog/VeterinaryClinic">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=soooojinn-prog&repo=VeterinaryClinic&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/soooojinn-prog/SPOTTER">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=soooojinn-prog&repo=SPOTTER&hide_border=true&theme=tokyonight" />
-</a>
-
-</div>
-
 <br/>
-
-## 📊 Language & Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=soooojinn-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooojinn-prog&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
 <sub>💡 검증된 디자인을 서비스로, 반복되는 일을 AI로.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
