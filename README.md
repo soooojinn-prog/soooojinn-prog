@@ -1,9 +1,16 @@
 <!-- ===== 헤더 배너 ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=soooojinn&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%EC%9B%B9%20%ED%92%80%EC%8A%A4%ED%83%9D%20%26%20AI%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=20&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=soooojinn&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Full-Stack%20%26%20AI%20Developer&descSize=18&descAlignY=60" />
 
-<!-- ===== 컨택 ===== -->
+<!-- ===== 타이핑 애니메이션 ===== -->
+<a href="https://github.com/soooojinn-prog">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=764ba2&center=true&vCenter=true&width=520&lines=%EA%B2%80%EC%A6%9D%EB%90%9C+%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84+%EC%8B%A4%EC%A0%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C;%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94+%EC%9D%BC%EC%9D%84+AI+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C;WordPress+%C2%B7+LangGraph+%C2%B7+CI%2FCD" alt="typing" />
+</a>
+
+<br/>
+
+<!-- ===== 컨택 배지 ===== -->
 <a href="mailto:soooojinn@gmail.com"><img src="https://img.shields.io/badge/Email-soooojinn@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/soooojinn-prog"><img src="https://img.shields.io/badge/GitHub-soooojinn--prog-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=soooojinn-prog&style=flat-square&color=764ba2&label=Views" />
@@ -24,6 +31,10 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Language**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -38,6 +49,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+</td>
+<td valign="top" width="50%">
+
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -48,13 +62,17 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## 🚀 Projects
 
-### ⭐ 도두리동물병원 — [`VeterinaryClinic`](https://github.com/soooojinn-prog/VeterinaryClinic)
+### ⭐ 도두리동물병원 &nbsp;·&nbsp; [`VeterinaryClinic`](https://github.com/soooojinn-prog/VeterinaryClinic)
 
-> 정적 HTML 프로토타입을 **WordPress 커스텀 테마**로 이식하고, **GitHub Actions 자동 배포 파이프라인**까지 구축해 실제 운영 중인 동물병원 웹사이트. 비개발자(병원 직원)가 코드 없이 콘텐츠를 직접 관리할 수 있도록 설계했습니다. **(1인 풀스택)**
+> 정적 HTML 프로토타입을 **WordPress 커스텀 테마**로 이식하고, **GitHub Actions 자동 배포 파이프라인**까지 구축해 실제 운영 중인 동물병원 웹사이트. 비개발자(병원 직원)가 코드 없이 콘텐츠를 직접 관리할 수 있도록 설계했습니다. &nbsp;**(1인 풀스택)**
 
 - 🧱 `functions.php` 진입점 + `inc/` 6개 모듈로 테마 아키텍처 분리
 - 🛡️ 플러그인 미설치 환경에서도 화면이 안 깨지는 **3단계 Fallback 헬퍼**(`doduri_option()`) 설계
@@ -67,22 +85,41 @@
 
 ### 🤖 AI Applications
 
-- **[`Final_Project`](https://github.com/Himidea-AI/Final_Project)** — 프랜차이즈 본부 영업팀용 **AI 출점 시뮬레이터**. `LangGraph` 병렬 멀티에이전트 구조. `Python`
-- **[`StudyMate-AI`](https://github.com/soooojinn-prog/StudyMate-AI)** — AI 기반 학습 도우미 애플리케이션. `Python`
-- **[`StockBriefing-AI`](https://github.com/soooojinn-prog/StockBriefing-AI)** — AI 주식 브리핑 서비스. `Python`
+| Project | 설명 | Stack |
+|:--|:--|:--|
+| **[`SPOTTER`](https://github.com/soooojinn-prog/SPOTTER)** | AI 기반 스포팅/추천 애플리케이션 | `Python` |
+| **[`StockBriefing-AI`](https://github.com/soooojinn-prog/StockBriefing-AI)** | AI 주식 브리핑 서비스 | `Python` |
+| **[`StudyMate-AI`](https://github.com/soooojinn-prog/StudyMate-AI)** | AI 기반 학습 도우미 애플리케이션 | `Python` |
 
 ### 🌐 Web
 
-- **[`project_futsal`](https://github.com/soooojinn-prog/project_futsal)** — 풋살 매칭/예약 웹 프로젝트. `Java`
+| Project | 설명 | Stack |
+|:--|:--|:--|
+| **[`letsfutsal`](https://github.com/soooojinn-prog/project_futsal)** | 풋살 매칭 · 예약 웹 서비스 | `Java` |
 
 <br/>
 
-## 📊 GitHub Stats
+## 📌 Featured Repositories
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soooojinn-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooojinn-prog&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<a href="https://github.com/soooojinn-prog/VeterinaryClinic">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=soooojinn-prog&repo=VeterinaryClinic&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/soooojinn-prog/SPOTTER">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=soooojinn-prog&repo=SPOTTER&hide_border=true&theme=tokyonight" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 Language & Activity
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=soooojinn-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooojinn-prog&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 </div>
 
@@ -90,4 +127,6 @@
 
 <div align="center">
 <sub>💡 검증된 디자인을 서비스로, 반복되는 일을 AI로.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
 </div>
